@@ -1,0 +1,9 @@
+[general]
+name=Natural_Earth_Data
+description=Scarica dati da natural earth
+about=Forum inforge
+version=0.01
+qgisMinimumVersion=3.0
+author=Metal103_inforge
+email=
+repository=
